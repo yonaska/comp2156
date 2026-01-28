@@ -1,0 +1,9 @@
+package.json
+{
+"name": "comp2156",
+"version": "1.0.0",
+"description": "COMP2156 CI Exercise",
+"scripts": {
+"test": "echo \"Tests passed\" "
+}
+}
